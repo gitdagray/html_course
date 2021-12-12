@@ -25,7 +25,7 @@
 
 ### Description
 
-📺 [YouTube Playlist]() for this repository.
+📺 [YouTube Playlist](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6OlAwitnFUubtE93DO-l0vu) for this repository.
 
 🚀 This repository shares ALL of the resources referenced during the HTML tutorial series.
 
@@ -58,7 +58,7 @@
 
 **Note:** The _"Starter Code"_ for a lesson is also the _"Completed Code"_ for the previous lesson.
 
-- 🔗 [Chapter 2 Starter Code]()
-- 🔗 [Chapter 3 Starter Code]()
-- 🔗 [Chapter 4 Starter Code]()
+- 🔗 [Chapter 2 Starter Code](https://github.com/gitdagray/html_course/tree/main/01_lesson)
+- 🔗 [Chapter 3 Starter Code](https://github.com/gitdagray/html_course/tree/main/02_lesson)
+- 🔗 [Chapter 4 Starter Code](https://github.com/gitdagray/html_course/tree/main/03_lesson)
 
