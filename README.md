@@ -51,6 +51,23 @@
 
 - 🔗 [MDN: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - 🔗 [MDN: HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- 🔗 [HTML Entities Character Chart](https://html.spec.whatwg.org/multipage/named-characters.html#named-character-references)
+
+### 🖼️ Image Resources:
+- 🔗 [Placeholder Image Generators] (https://loremipsum.io/21-of-the-best-placeholder-image-generators/)
+- ➡️ Sites with Freely-Usable Images: 
+- 🔗 [Unsplash.com](https://unsplash.com/)
+- 🔗 [Pexels.com](https://www.pexels.com/)
+- 🔗 [Gratisography.com](https://gratisography.com/)
+- 🔗 [Pixabay.com](https://pixabay.com/)
+- ➡️ Image Editing / Resizing Software: 
+- 🔗 For Windows: [Irfanview](https://www.irfanview.com/)
+- 🔗 As a Service: [Canva.com](https://www.canva.com/)
+- 🔗 [Suggestions for Macs](https://www.cleverfiles.com/howto/top-5-photo-editing-apps-mac.html)
+- ➡️ Full Featured Editor for Windows/Mac/Linux: 
+- 🔗 [Gimp](https://www.gimp.org/)
+- ➡️ Image Compression (shrink file size): 
+- 🔗 [TinyPNG](https://tinypng.com/)
 
 ---
 
@@ -61,4 +78,5 @@
 - 🔗 [Chapter 2 Starter Code](https://github.com/gitdagray/html_course/tree/main/01_lesson)
 - 🔗 [Chapter 3 Starter Code](https://github.com/gitdagray/html_course/tree/main/02_lesson)
 - 🔗 [Chapter 4 Starter Code](https://github.com/gitdagray/html_course/tree/main/03_lesson)
+- 🔗 [Chapter 5 Starter Code](https://github.com/gitdagray/html_course/tree/main/04_lesson)
 
