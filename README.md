@@ -80,4 +80,5 @@
 - 🔗 [Chapter 3 Starter Code](https://github.com/gitdagray/html_course/tree/main/02_lesson)
 - 🔗 [Chapter 4 Starter Code](https://github.com/gitdagray/html_course/tree/main/03_lesson)
 - 🔗 [Chapter 5 Starter Code](https://github.com/gitdagray/html_course/tree/main/04_lesson)
+- 🔗 [Chapter 6 Starter Code](https://github.com/gitdagray/html_course/tree/main/05_lesson)
 
