@@ -46,12 +46,16 @@
 - 🔗 [vscode-icons VS Code Extension](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 - 🔗 [Github Themes VS Code Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 - 🔗 [W3C HTML Validator](https://validator.w3.org/)
+- 🔗 [HTML5 Outliner](https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo)
 
 ### 📚 References
 
 - 🔗 [MDN: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - 🔗 [MDN: HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - 🔗 [HTML Entities Character Chart](https://html.spec.whatwg.org/multipage/named-characters.html#named-character-references)
+- 🔗 [MDN Web Glossary: Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+- 🔗 [w3Schools: Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- 🔗 [MDN: Document and Website Structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 
 ### 🖼️ Image Resources:
 - Placeholder Image Generators:
@@ -70,6 +74,19 @@
 - Image Compression (shrink file size): 
     - 🔗 [TinyPNG](https://tinypng.com/)
 
+### 📚 Semantic HTML References: 
+- 🔗 [MDN Web Glossary for Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+- 🔗 [w3Schools Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- 🔗 [MDN Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
+
+### 📚 HTML Table References: 
+- 🔗 [MDN: Table Basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
+- 🔗 [MDN: Advanced Tables and Accessibility](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced)
+
+### 📚 HTML Forms References: 
+- 🔗 [MDN: Web Forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
+- 🔗 [MDN: Form Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
+
 ---
 
 ### 💻 Source Code
@@ -81,4 +98,8 @@
 - 🔗 [Chapter 4 Starter Code](https://github.com/gitdagray/html_course/tree/main/03_lesson)
 - 🔗 [Chapter 5 Starter Code](https://github.com/gitdagray/html_course/tree/main/04_lesson)
 - 🔗 [Chapter 6 Starter Code](https://github.com/gitdagray/html_course/tree/main/05_lesson)
+- 🔗 [Chapter 7 Starter Code](https://github.com/gitdagray/html_course/tree/main/06_lesson)
+- 🔗 [Chapter 8 Starter Code](https://github.com/gitdagray/html_course/tree/main/07_lesson)
+- 🔗 [Chapter 9 Starter Code](https://github.com/gitdagray/html_course/tree/main/08_lesson)
+- 🔗 [Chapter 9 Completed Code](https://github.com/gitdagray/html_course/tree/main/09_lesson)
 
