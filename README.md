@@ -74,11 +74,6 @@
 - Image Compression (shrink file size): 
     - 🔗 [TinyPNG](https://tinypng.com/)
 
-### 📚 Semantic HTML References: 
-- 🔗 [MDN Web Glossary for Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
-- 🔗 [w3Schools Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
-- 🔗 [MDN Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
-
 ### 📚 HTML Table References: 
 - 🔗 [MDN: Table Basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
 - 🔗 [MDN: Advanced Tables and Accessibility](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced)
@@ -91,7 +86,7 @@
 
 ### 💻 Source Code
 
-**Note:** The _"Starter Code"_ for a lesson is also the _"Completed Code"_ for the previous lesson.
+**Note:** The _"Starter Code"_ for a lesson is also the _"Completed Code"_ for the previous lesson unless otherwise noted.
 
 - 🔗 [Chapter 2 Starter Code](https://github.com/gitdagray/html_course/tree/main/01_lesson)
 - 🔗 [Chapter 3 Starter Code](https://github.com/gitdagray/html_course/tree/main/02_lesson)
@@ -102,4 +97,6 @@
 - 🔗 [Chapter 8 Starter Code](https://github.com/gitdagray/html_course/tree/main/07_lesson)
 - 🔗 [Chapter 9 Starter Code](https://github.com/gitdagray/html_course/tree/main/08_lesson)
 - 🔗 [Chapter 9 Completed Code](https://github.com/gitdagray/html_course/tree/main/09_lesson)
+- 🔗 [Chapter 10 Starter Code](https://github.com/gitdagray/html_course/tree/main/10_lesson_starter)
+- 🔗 [Chapter 10 Completed Code](https://github.com/gitdagray/html_course/tree/main/10_lesson)
 
