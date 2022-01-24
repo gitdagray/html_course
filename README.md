@@ -1,6 +1,6 @@
 # "HTML for Beginners"
 
-### Full Course - Lesson Count In Progress
+### Full Course - 10 Chapters
 
 ---
 
