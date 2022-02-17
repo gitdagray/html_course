@@ -42,6 +42,7 @@
 - 🔗 [Google Chrome Web Browser](https://google.com/chrome/)
 - 🔗 [Dark New Tab Chrome Extension](https://chrome.google.com/webstore/detail/dark-new-tab/kcphhkbdlfggickaoeiahdcfhagfbajl?hl=en)
 - 🔗 [Visual Studio Code (aka VS Code)](https://code.visualstudio.com/)
+- 🔗 [Live Server VS Code Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - 🔗 [Prettier VS Code Extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - 🔗 [vscode-icons VS Code Extension](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 - 🔗 [Github Themes VS Code Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
