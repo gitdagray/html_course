@@ -101,3 +101,4 @@
 - 🔗 [Chapter 10 Starter Code](https://github.com/gitdagray/html_course/tree/main/10_lesson_starter)
 - 🔗 [Chapter 10 Completed Code](https://github.com/gitdagray/html_course/tree/main/10_lesson)
 
+I am Enjoying this tutorial
